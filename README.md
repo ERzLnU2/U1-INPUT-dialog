@@ -18,6 +18,9 @@ Entrada (input) de datos en cuadro de diálogo: pide datos y realiza operación 
           }
      }
 
+:)
+en serio:
 
-![alt text]()
-![alt text]()
+![alt text](https://repository-images.githubusercontent.com/541220647/88356376-21b4-4aef-8063-0ffc6fc632dc)
+
+![alt text](https://repository-images.githubusercontent.com/541220647/a1bf0221-f46a-43e7-926f-ef0b2c2720ec)
