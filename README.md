@@ -4,7 +4,7 @@ Entrada (input) de datos en cuadro de diálogo: pide datos y realiza operación 
 
 ![alt text](https://repository-images.githubusercontent.com/541220647/5439b559-4148-4c7d-8f83-60e7e4df2af5)
 
-
+```java
       import javax.swing.JOptionPane;  
       public class INPUTdialog { 
         public static void main(String[] args) {
@@ -17,7 +17,7 @@ Entrada (input) de datos en cuadro de diálogo: pide datos y realiza operación 
      System.out.println("2. Edad dentro de un ano: "+(edad+1));
           }
      }
-
+```
 :)
 en serio:
 
